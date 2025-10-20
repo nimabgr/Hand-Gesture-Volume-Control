@@ -32,7 +32,7 @@ This project also uses the `HandTrackingModule` from my other repository for han
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/nimabgr/Hand-Gesture-Volume-Control.git](https://github.com/nimabgr/Hand-Gesture-Volume-Control.git)
+    git clone https://github.com/nimabgr/Hand-Gesture-Volume-Control.git
     cd Hand-Gesture-Volume-Control
     ```
 
